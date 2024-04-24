@@ -1,0 +1,17 @@
+leftnav:
+- identifier: c931abf9-a9ec-4835-8a5d-b676341391d5
+  name: Menu 1  video
+  pageRef: /resources/sample-video_mp4
+  weight: 10
+- identifier: 8149ae54-c78b-472c-9e76-118d55717c4a
+  name: menu 1 page
+  pageRef: /pages/p1
+  weight: 20
+- identifier: 51a23a24-7cf3-4363-a3e1-0d5507d554e4
+  name: page 2
+  pageRef: /pages/p2
+  weight: 30
+- identifier: c2dcfc28-f251-4758-95e6-4421ae2c9d37
+  name: menu page 3
+  pageRef: /pages/p3
+  weight: 40
