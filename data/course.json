@@ -1,0 +1,34 @@
+{
+  "term": "Summer",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahim-test-course-site"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahim-test-course-site"
+  },
+  "course_title": "ibrahim-test-course-site",
+  "hide_download": false,
+  "course_description": "**ibrahim-test-course-site**\n\n***publish*****Publish**",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "6.4220",
+  "primary_course_number": "108",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ibrahim-test-course-site"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "5fd40422-3825-4433-aac3-e5124ac55ad2",
+  "site_short_id": "ibrahim-test-course-site"
+}
