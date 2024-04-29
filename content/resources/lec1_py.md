@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/108-ibrahim-test-course-site-summer-2023/ocwlogo.jpg
-file_size: 12412
-file_type: image/jpeg
+file: /media/courses/108-ibrahim-test-course-site-summer-2023/lec1.py
+file_size: 1277
+file_type: text/x-python-script
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: ocwlogo.jpg
-uid: 238693f8-e9d7-4d4f-89a6-b3c4e9e2e583
+resourcetype: Document
+title: lec1.py
+uid: 862e2f51-0e25-4ab5-b7f8-8da4c40e81ab
 video_files:
   archive_url: ''
   video_captions_file: ''
